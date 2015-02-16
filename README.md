@@ -1,5 +1,4 @@
 # any2dita
-PHP plugin for expeDITA toolkit that converts common doc formats into DITA.
 
 `any2dita` is a plugin of the expeDITA toolkit that provides Web-based conversion into DITA from several popular formats: HTML, rich text (page copy/paste), Markdown, and Mediawiki. The page themes, behaviors, and DITA content rendering (this concept!) are powered by the expeDITA toolkit, which provides a plugin interface for third party extensions such as any2dita.
 
