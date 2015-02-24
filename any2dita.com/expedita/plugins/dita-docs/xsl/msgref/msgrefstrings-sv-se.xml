@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="sv-se">
+<str name="msgAdministratorResponse">Administratörens svar</str>
+<str name="msgAutomation">Automatisering</str>
+<str name="msgCodeDefinitionHead">Förklaring</str>
+<str name="msgCodeLabelHead">Koder</str>
+<str name="msgDescriptorCode">Beskrivningskod</str>
+<str name="msgModule">Modul</str>
+<str name="msgOperatorResponse">Operatörens åtgärd</str>
+<str name="msgProblemDetermination">Problembestämning</str>
+<str name="msgProgrammerResponse">Programmerarens åtgärd</str>
+<str name="msgResponse">Åtgärd</str>
+<str name="msgRoutingCode">Vägvalskod</str>
+<str name="msgSource">Källa</str>
+<str name="msgSystemAction">Konsekvens</str>
+<str name="msgSystemProgrammerResponse">Systemprogrammerarens åtgärd</str>
+<str name="msgUserResponse">Användarens åtgärd</str>
+<str name="msgExplanation">Förklaring</str>
+<str name="noaction">Ingen åtgärd krävs.</str>
+</strings>

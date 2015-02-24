@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="tr-tr">
+<str name="msgAdministratorResponse">Sistem Yöneticisi Yanıtı</str>
+<str name="msgAutomation">Otomatikleştirme</str>
+<str name="msgCodeDefinitionHead">Açıklama</str>
+<str name="msgCodeLabelHead">Kodlar</str>
+<str name="msgDescriptorCode">Açıklayıcı Kodu</str>
+<str name="msgModule">Modül</str>
+<str name="msgOperatorResponse">İşletmen Yanıtı</str>
+<str name="msgProblemDetermination">Problem Belirlenmesi</str>
+<str name="msgProgrammerResponse">Programcı Yanıtı</str>
+<str name="msgResponse">Yanıt</str>
+<str name="msgRoutingCode">Yönlendirme Kodu</str>
+<str name="msgSource">Kaynak</str>
+<str name="msgSystemAction">Sistem İşlemi</str>
+<str name="msgSystemProgrammerResponse">Sistem Programcısı Yanıtı</str>
+<str name="msgUserResponse">Kullanıcı Yanıtı</str>
+<str name="msgExplanation">Açıklama</str>
+<str name="noaction">İşlem Yapılması Gerekmiyor.</str>
+</strings>

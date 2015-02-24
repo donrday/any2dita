@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="el-gr">
+<str name="msgAdministratorResponse">Απόκριση διαχειριστή</str>
+<str name="msgAutomation">Αυτόματη απόκριση</str>
+<str name="msgCodeDefinitionHead">Εξήγηση</str>
+<str name="msgCodeLabelHead">Κωδικοί</str>
+<str name="msgDescriptorCode">Κωδικός περιγραφής</str>
+<str name="msgModule">Ενότητα</str>
+<str name="msgOperatorResponse">Απόκριση χειριστή</str>
+<str name="msgProblemDetermination">Περιγραφή προβλήματος</str>
+<str name="msgProgrammerResponse">Απόκριση προγραμματιστή</str>
+<str name="msgResponse">Απόκριση</str>
+<str name="msgRoutingCode">Κωδικός δρομολόγησης</str>
+<str name="msgSource">Προέλευση</str>
+<str name="msgSystemAction">Ενέργεια συστήματος</str>
+<str name="msgSystemProgrammerResponse">Απόκριση προγραμματιστή συστήματος</str>
+<str name="msgUserResponse">Απόκριση χρήστη</str>
+<str name="msgExplanation">Εξήγηση</str>
+<str name="noaction">Δεν απαιτείται καμία ενέργεια.</str>
+</strings>

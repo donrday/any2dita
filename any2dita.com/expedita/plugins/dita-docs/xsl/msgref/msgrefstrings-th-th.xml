@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="th-th">
+<str name="msgAdministratorResponse">การตอบสนองของผู้บริหาร</str>
+<str name="msgAutomation">การทำให้้เป็นอัตโนมัติ</str>
+<str name="msgCodeDefinitionHead">คำอธิบาย</str>
+<str name="msgCodeLabelHead">โค้ด</str>
+<str name="msgDescriptorCode">โค้ดตัวบอก</str>
+<str name="msgModule">โมดูล</str>
+<str name="msgOperatorResponse">การตอบสนองของผู้ปฏิบัติการ</str>
+<str name="msgProblemDetermination">การวินิจฉัยปัญหา</str>
+<str name="msgProgrammerResponse">การตอบสนองของโปรแกรมเมอร์</str>
+<str name="msgResponse">การตอบสนอง</str>
+<str name="msgRoutingCode">โค้ดการเร้าต์</str>
+<str name="msgSource">แหล่งที่มา</str>
+<str name="msgSystemAction">ภารกิจของระบบ</str>
+<str name="msgSystemProgrammerResponse">การตอบสนองของโปรแกรมเมอร์ระบบ</str>
+<str name="msgUserResponse">การตอบสนองของผู้ใช้</str>
+<str name="msgExplanation">คำอธิบาย</str>
+<str name="noaction">ไม่ต้องมีแอ็กชัน.</str>
+</strings>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "../dtd/concept.dtd">
+<concept id="concept_26209563453ba4b17e">
+    <title>The Language of Content Strategy</title>
+    <shortdesc></shortdesc>
+    <conbody>
+<p>Title Information / Schedule</p>
+<simpletable relcolwidth="2* 1* 1* 1*">
+ <sthead>
+  <stentry>Milestone</stentry>
+  <stentry>Original Date</stentry>
+  <stentry>Current Date</stentry>
+  <stentry>Notes</stentry>
+ </sthead>
+ <strow>
+  <stentry><p>Agreement Signed</p></stentry>
+  <stentry></stentry>
+  <stentry></stentry>
+  <stentry></stentry></strow>
+ <strow>
+  <stentry>Outline Complete</stentry>
+  <stentry></stentry>
+  <stentry></stentry>
+  <stentry></stentry></strow>
+ <strow>
+  <stentry>First Chapter</stentry>
+  <stentry></stentry>
+  <stentry></stentry>
+  <stentry></stentry></strow>
+ <strow>
+  <stentry>Draft 50% complete</stentry>
+  <stentry></stentry>
+  <stentry></stentry>
+  <stentry></stentry></strow>
+ <strow>
+  <stentry>Draft 100% complete</stentry>
+  <stentry></stentry>
+  <stentry></stentry>
+  <stentry></stentry></strow>
+ <strow>
+  <stentry>Review Complete</stentry>
+  <stentry></stentry>
+  <stentry></stentry>
+  <stentry></stentry></strow>
+ <strow>
+  <stentry>Published (print)</stentry>
+  <stentry></stentry>
+  <stentry></stentry>
+  <stentry></stentry></strow>
+ <strow>
+  <stentry>Published (ebook)</stentry>
+  <stentry></stentry>
+  <stentry></stentry>
+  <stentry></stentry></strow>
+</simpletable>
+
+<simpletable relcolwidth="2* 1* 1* 1*">
+ <sthead>
+  <stentry>Milestone</stentry>
+  <stentry>Original</stentry>
+  <stentry>Current Date</stentry>
+  <stentry>Notes</stentry></sthead>
+ <strow>
+  <stentry>Agreement Signed</stentry>
+  <stentry></stentry>
+  <stentry></stentry>
+  <stentry></stentry></strow>
+ <strow>
+  <stentry>Content in Wiki</stentry>
+  <stentry></stentry>
+  <stentry></stentry>
+  <stentry></stentry></strow>
+ <strow>
+  <stentry>Author Trained</stentry>
+  <stentry></stentry>
+  <stentry></stentry>
+  <stentry></stentry></strow>
+ <strow>
+  <stentry>Author Content Approval</stentry>
+  <stentry></stentry>
+  <stentry></stentry>
+  <stentry></stentry></strow>
+ <strow>
+  <stentry>Edit Complete</stentry>
+  <stentry></stentry>
+  <stentry></stentry>
+  <stentry></stentry></strow>
+ <strow>
+  <stentry>Review Complete</stentry>
+  <stentry></stentry>
+  <stentry></stentry>
+  <stentry></stentry></strow>
+ <strow>
+  <stentry>Galley Ready</stentry>
+  <stentry></stentry>
+  <stentry></stentry>
+  <stentry></stentry></strow>
+ <strow>
+  <stentry>Galley Approved</stentry>
+  <stentry></stentry>
+  <stentry></stentry>
+  <stentry></stentry></strow>
+ <strow>
+  <stentry>Published print</stentry>
+  <stentry></stentry>
+  <stentry></stentry>
+  <stentry></stentry></strow>
+ <strow>
+  <stentry>Published ebook</stentry>
+  <stentry></stentry>
+  <stentry></stentry>
+  <stentry></stentry></strow>
+</simpletable>
+<p>This page contains information about one title in the series. Use this template to create the page for a new book</p>
+
+<p>Title: The Language of Content Strategy</p>
+<p>Subtitle:</p>
+<p>Author: Scott Abel, Rahel Anne Bailie</p>
+<p>ISBN Print:</p>
+<p>ISBN eBook:</p>
+<p>Price (print, eBook):</p>
+<p>:</p>
+<p>Short Marketing Description (180 characters max):</p>
+<p>Marketing Description (2-4 paragraphs):</p>
+    </conbody>
+</concept>
+        

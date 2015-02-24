@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="ro-ro">
+<str name="msgAdministratorResponse">Răspuns administrator</str>
+<str name="msgAutomation">Automatizare</str>
+<str name="msgCodeDefinitionHead">Explicaţie</str>
+<str name="msgCodeLabelHead">Coduri</str>
+<str name="msgDescriptorCode">Cod descriptor</str>
+<str name="msgModule">Modul</str>
+<str name="msgOperatorResponse">Răspuns operator</str>
+<str name="msgProblemDetermination">Determinare problemă</str>
+<str name="msgProgrammerResponse">Răspuns programator</str>
+<str name="msgResponse">Răspuns</str>
+<str name="msgRoutingCode">Cod de rutare</str>
+<str name="msgSource">Sursă</str>
+<str name="msgSystemAction">Acţiune sistem</str>
+<str name="msgSystemProgrammerResponse">Răspuns programator sistem</str>
+<str name="msgUserResponse">Răspuns utilizator</str>
+<str name="msgExplanation">Explicaţie</str>
+<str name="noaction">Nu este necesară nici o acţiune.</str>
+</strings>

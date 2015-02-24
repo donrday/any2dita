@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="is-is">
+<str name="msgAdministratorResponse">Svar umsjónarmanns</str>
+<str name="msgAutomation">Sjálfvirkni</str>
+<str name="msgCodeDefinitionHead">Skýring</str>
+<str name="msgCodeLabelHead">Kótar</str>
+<str name="msgDescriptorCode">Lýsingarkóti</str>
+<str name="msgModule">Forritseining</str>
+<str name="msgOperatorResponse">Viðbrögð notanda</str>
+<str name="msgProblemDetermination">Ákvörðun á vandamáli</str>
+<str name="msgProgrammerResponse">Viðbrögð forritara</str>
+<str name="msgResponse">Svar</str>
+<str name="msgRoutingCode">Beiningarkóti</str>
+<str name="msgSource">Source</str>
+<str name="msgSystemAction">Kerfisviðbrögð</str>
+<str name="msgSystemProgrammerResponse">Viðbrögð kerfisforritara</str>
+<str name="msgUserResponse">Viðbrögð notanda</str>
+<str name="msgExplanation">Skýring</str>
+<str name="noaction">Engra aðgerða er þörf.</str>
+</strings>

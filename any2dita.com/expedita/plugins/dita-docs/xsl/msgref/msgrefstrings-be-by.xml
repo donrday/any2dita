@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="be-by">
+<str name="msgAdministratorResponse">Водгук адміністратара</str>
+<str name="msgAutomation">Аўтаматызацыя</str>
+<str name="msgCodeDefinitionHead">Тлумачэнне</str>
+<str name="msgCodeLabelHead">Код</str>
+<str name="msgDescriptorCode">Дэскрыптар кода</str>
+<str name="msgModule">Модуль</str>
+<str name="msgOperatorResponse">Дзеянні аператара</str>
+<str name="msgProblemDetermination">Пошук збоя</str>
+<str name="msgProgrammerResponse">Дзеянні праграміста</str>
+<str name="msgResponse">Водгук</str>
+<str name="msgRoutingCode">Маршрутызацыя кода</str>
+<str name="msgSource">Зыходны код</str>
+<str name="msgSystemAction">Дзеянні сістэмы</str>
+<str name="msgSystemProgrammerResponse">Дзеянні сістэмнага праграміста</str>
+<str name="msgUserResponse">Дзеянні карыстальніка</str>
+<str name="msgExplanation">Тлумачэнне</str>
+<str name="noaction">Дзеянне не патрэбна</str>
+</strings>

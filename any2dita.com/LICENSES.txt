@@ -1,0 +1,29 @@
+This project is licensed under ASL2. This license is compatible with MPL and BSD.
+
+
+Licenses of included components:
+
+verbatim.xsl
+	Adapted for DITA map browsing from http://xml.ascc.net/schematron/1.5/report1-5/schematron-report.html .
+	"Copyright 1999 David Carlisle NAG Ltd; davidc@nag.co.uk; Free use granted under GPL or MPL."
+	Note: http://lwn.net/Articles/446293/ re. OpenOffice.org donated to Apache: 
+	"Neither MPL nor LGPL will force the distributor to make their program GPL, it should also be noted."
+	Adapted to provide HTML link to DITA topicref resources.
+
+whizzywing.js
+	//Whizzywing Rich Text Editor. © 2011-12 John Goodman - www.whizzywing.com - Licence: MIT/GPL 
+	Used without modification
+
+PHP Markdown Lib  
+	Copyright (c) 2004-2014 Michel Fortin  
+	C:\wamp\www\any2dita.com\Vendor\PHP Markdown Lib 1.4.1\License.md
+	"Redistribution and use in source and binary forms, with or without
+	modification, are permitted..." (requirements met by this usage)
+	Used without modification
+
+Themes:
+Themes provided with the expeDITA framework are based on "free css templates" that have been
+adapted for the expeDITA theming system but respecting designer requirements for attribution
+in the footers. In most cases, template providers allow a site owner to pay for the
+removal of the designer attribution. Securing such extraordinary terms of use is the 
+responsibility of users of themes provided in expeDITA. Or, write your own theme!

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="sk-sk">
+<str name="msgAdministratorResponse">Odozva administrátora</str>
+<str name="msgAutomation">Automatizácia</str>
+<str name="msgCodeDefinitionHead">Vysvetlenie</str>
+<str name="msgCodeLabelHead">Kódy</str>
+<str name="msgDescriptorCode">Kód deskriptora</str>
+<str name="msgModule">Modul</str>
+<str name="msgOperatorResponse">Zodpovedný operátor</str>
+<str name="msgProblemDetermination">Určenie problému</str>
+<str name="msgProgrammerResponse">Zodpovedný programátor</str>
+<str name="msgResponse">Odpoveď</str>
+<str name="msgRoutingCode">Kód smerovania</str>
+<str name="msgSource">Zdroj</str>
+<str name="msgSystemAction">Systémová akcia</str>
+<str name="msgSystemProgrammerResponse">Zodpovednosť systémového programátora</str>
+<str name="msgUserResponse">Zodpovednosť užívateľa</str>
+<str name="msgExplanation">Vysvetlenie</str>
+<str name="noaction">Nie je vyžadovaná žiadna akcia.</str>
+</strings>

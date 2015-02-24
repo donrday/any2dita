@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "../dtd/topic.dtd">
+<topic id="topic_78402427644575678a5dc0">
+    <title>What is expeDITA?</title>
+    <titlealts><navtitle>expeDITA is the Winamp of structured content</navtitle></titlealts>
+    <shortdesc>
+        What if we built websites the way Wurlitzer built jukeboxes back when your mother was young?
+    </shortdesc>
+    <body>
+        <fig frame="all">
+            <image href="images/3-memories-for-a-quarter_l-preview.jpg" width="640px" height="auto" placement="break"/>
+            <fn>Photo credit: <xref scope="external" href="http://www.flickr.com/photos/kt/6856362580/">The Rocketeer</xref> / <xref scope="external" href="http://foter.com">Foter</xref> / <xref scope="external" href="http://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY-NC-ND</xref>
+        </fn>
+    </fig>
+    <p>E3, H10, K2. Presto, you've just created your custom music playlist on the popular, personal entertainment device of the 1950's, the jukebox. Now these devices fit in a pocket, and some are even aware of your musical tastes and can suggest content you might want to try.</p>
+    <!--image href="images/steps.jpg" width="558px" height="180px">
+</image-->
+<p>In a way, expeDITA is the music jukebox of structured content: you can create a playlist of selections to read later, you can bookmark favorites to go back to later, you can search by keyword, genre, date, author, and ratings, you can set your preferences for playback, you can reskin the player, you can access items on your list individually or as part of a sequence, and you can change encodings for playback.</p>
+<!--
+		<ul>
+<li>map = album list</li>
+<li>bookmarks = playlist</li>
+<li>search = ranked playlist</li>
+<li>prefs = DSP and equalizers</li>
+<li>themes = skins</li>
+<li>"all" vs "single" = play all vs play current</li>
+<li>renderings = change encoding for intended listening device</li>
+</ul>
+-->
+<p>It's an apt comparison, as music, pictures, and documents of all kinds are all resources that we've traditionally needed to manage for ease of access by consumers having all ranges of taste and interests. We can drive the analogy a little further by comparing the personal playlist of content with mastered compilations--ususually a set of songs curated by someone else's sense of relationships and moods, and sold as a pressed album. If you liked only one song on the album, you had to buy the album to get it.</p>
+<p>In effect, the build approach to structured content generally delivers that same kind of fixed experience. In the structured writing world, there are usually ways to add conditionality on how that compilation is built, but compilations still involve a tradeoff between user desires and the policies of content owners.</p>
+<p>The URL-as-query-based approach in expeDITA lets users select and manage topics to consume on their own terms. expeDITA truly treats every page as page one in that regard.</p>
+<p>Of course, there are good reasons why some content owners might require a compilation process: it can help them manage authentication at build time rather than at reading time, or to produce a known user experience such as an interactive children's book or a set of training courseware, applications in which changing the page order could compromise the intended experience.</p>
+<p>So with apologies to Jack Black's quite insightful movie, "School of Rock," expeDITA is not so much about The Man (the established ways of presenting content) as it is about The Music (giving options to both The User and The Man). Rock on!</p>
+</body>
+</topic>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="en-us">
+<str name="msgAdministratorResponse">Administrator response</str>
+<str name="msgAutomation">Automation</str>
+<str name="msgCodeDefinitionHead">Explanation</str>
+<str name="msgCodeLabelHead">Codes</str>
+<str name="msgDescriptorCode">Descriptor code</str>
+<str name="msgModule">Module</str>
+<str name="msgOperatorResponse">Operator response</str>
+<str name="msgProblemDetermination">Problem determination</str>
+<str name="msgProgrammerResponse">Programmer response</str>
+<str name="msgResponse">Response</str>
+<str name="msgRoutingCode">Routing code</str>
+<str name="msgSource">Source</str>
+<str name="msgSystemAction">System action</str>
+<str name="msgSystemProgrammerResponse">System programmer response</str>
+<str name="msgUserResponse">User response</str>
+<str name="msgExplanation">Explanation</str>
+<str name="noaction">No action is required.</str>
+</strings>

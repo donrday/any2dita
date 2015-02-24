@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "../dtd/concept.dtd">
+<concept id="topic_{id}">
+    <title outputclass="term">{term}</title>
+<abstract>
+    <shortdesc outputclass="what">{what it is}</shortdesc>
+    <shortdesc outputclass="why">{why it is important}</shortdesc>
+</abstract>
+    <conbody outputclass="definition">
+        <p>{definition}</p>
+		<section>
+			<title>Author Information:</title>
+			<p>Name: John Doe</p>
+			<p>Bio: </p>
+			<p>Email: johndoe@example.com</p>
+			<p>Website: <xref href="http://example.com/">http://example.com/</xref></p>
+			<p>Twitter: @</p>
+			<p>LinkedIn: <xref href="http://www.linkedin.com/">http://www.linkedin.com/</xref></p>
+			<p>Facebook: <xref href="https://www.facebook.com/">https://www.facebook.com/</xref></p>
+			<p>Phone: </p>
+			<p>Address: </p>
+		</section>
+    </conbody>
+</concept>

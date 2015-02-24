@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="ko-kr">
+<str name="msgAdministratorResponse">관리자 응답</str>
+<str name="msgAutomation">자동 응답</str>
+<str name="msgCodeDefinitionHead">설명</str>
+<str name="msgCodeLabelHead">코드</str>
+<str name="msgDescriptorCode">설명자 코드</str>
+<str name="msgModule">모듈</str>
+<str name="msgOperatorResponse">운영자 응답</str>
+<str name="msgProblemDetermination">문제점 판별</str>
+<str name="msgProgrammerResponse">프로그래머 응답</str>
+<str name="msgResponse">응답</str>
+<str name="msgRoutingCode">라우팅 코드</str>
+<str name="msgSource">소스</str>
+<str name="msgSystemAction">시스템 조치</str>
+<str name="msgSystemProgrammerResponse">시스템 프로그래머 응답</str>
+<str name="msgUserResponse">사용자 응답</str>
+<str name="msgExplanation">설명</str>
+<str name="noaction">조치가 필요없습니다.</str>
+</strings>

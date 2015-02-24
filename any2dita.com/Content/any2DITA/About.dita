@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "../dtd/concept.dtd">
+<concept id="concept_any2dita">
+<title>New Content for Old</title>
+<shortdesc><code>any2dita</code> is a plugin of the expeDITA framework that provides Web-based conversion into DITA from several popular formats: HTML, rich text (page copy/paste), Markdown, and Mediawiki.</shortdesc>
+<conbody>
+<p>This initial version is a technology demonstrator, and initial documentation is sketchy. The most successful demos are from the extensive Markdown documentation itself at the daringfireball web site.</p>
+<ol>
+<li>Click on the Markdown tab. On this tab you may either paste in/create your own Markdown content or use the URL field to directly get the text content of a Markdown site.</li>
+<li>In the </li>
+</ol>
+</conbody>
+</concept>

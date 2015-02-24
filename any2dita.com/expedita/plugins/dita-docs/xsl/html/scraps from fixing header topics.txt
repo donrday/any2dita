@@ -1,0 +1,12 @@
+			<xsl:if test='*[contains(@class," topic/title ")]'>
+				<h1 id="sitetitle" class="topictitle0"><xsl:apply-templates select='*[contains(@class," topic/title ")]' mode='header'/></h1>
+			</xsl:if>
+			<xsl:if test='*[contains(@class," topic/titlealts ")]/*[contains(@class," topic/navtitle ")]'>
+				<p id="tagline">
+		     	   <xsl:value-of select='*[contains(@class," topic/titlealts ")]/*[contains(@class," topic/navtitle ")]' mode='header'/>
+		        </p>
+	        </xsl:if>
+
+
+        <xsl:apply-templates select='*[contains(@class," topic/title ")]' mode='header'/>
+        <xsl:apply-templates select='*[contains(@class," topic/titlealts ")]/*[contains(@class," topic/navtitle ")]' mode='header'/>

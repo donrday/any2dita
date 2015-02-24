@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="nl-nl">
+<str name="msgAdministratorResponse">Instructie voor beheerder</str>
+<str name="msgAutomation">Automatisering</str>
+<str name="msgCodeDefinitionHead">Verklaring</str>
+<str name="msgCodeLabelHead">Codes</str>
+<str name="msgDescriptorCode">Descriptorcode</str>
+<str name="msgModule">Module</str>
+<str name="msgOperatorResponse">Instructie voor operator</str>
+<str name="msgProblemDetermination">Probleembepaling</str>
+<str name="msgProgrammerResponse">Instructie voor programmeur</str>
+<str name="msgResponse">Instructie</str>
+<str name="msgRoutingCode">Routecode</str>
+<str name="msgSource">Bron</str>
+<str name="msgSystemAction">Systeemactie</str>
+<str name="msgSystemProgrammerResponse">Instructie voor systeemprogrammeur</str>
+<str name="msgUserResponse">Instructie voor gebruiker</str>
+<str name="msgExplanation">Verklaring</str>
+<str name="noaction">Geen actie vereist.</str>
+</strings>

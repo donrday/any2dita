@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "../dtd/concept.dtd">
+<concept id="concept_{id}">
+<title>{title}</title>
+<shortdesc>{short description}</shortdesc>
+<conbody>
+<p>{paragraph content}</p>
+</conbody>
+</concept>

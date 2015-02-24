@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="bg-bg">
+<str name="msgAdministratorResponse">Реакция на администратор</str>
+<str name="msgAutomation">Автоматизация</str>
+<str name="msgCodeDefinitionHead">Обяснение</str>
+<str name="msgCodeLabelHead">Кодове</str>
+<str name="msgDescriptorCode">Код на дескриптор</str>
+<str name="msgModule">Модул</str>
+<str name="msgOperatorResponse">Отговор на оператора</str>
+<str name="msgProblemDetermination">Определяне на проблеми</str>
+<str name="msgProgrammerResponse">Отговор на програмиста</str>
+<str name="msgResponse">Реакция</str>
+<str name="msgRoutingCode">Код на пренасочване</str>
+<str name="msgSource">Източник</str>
+<str name="msgSystemAction">Системно действие</str>
+<str name="msgSystemProgrammerResponse">Отговор на системния програмист</str>
+<str name="msgUserResponse">Отговор на потребителя</str>
+<str name="msgExplanation">Обяснение</str>
+<str name="noaction">Не е необходимо действие.</str>
+</strings>

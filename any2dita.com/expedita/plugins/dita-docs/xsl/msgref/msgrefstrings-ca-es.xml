@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="ca-es">
+<str name="msgAdministratorResponse">Resposta de l'administrador</str>
+<str name="msgAutomation">Automatització</str>
+<str name="msgCodeDefinitionHead">Explicació</str>
+<str name="msgCodeLabelHead">Codis</str>
+<str name="msgDescriptorCode">Codi descriptor</str>
+<str name="msgModule">Mòdul</str>
+<str name="msgOperatorResponse">Resposta de l'Operador</str>
+<str name="msgProblemDetermination">Determinació del Problema</str>
+<str name="msgProgrammerResponse">Resposta del Programador</str>
+<str name="msgResponse">Resposta</str>
+<str name="msgRoutingCode">Codi d'encaminament</str>
+<str name="msgSource">Origen</str>
+<str name="msgSystemAction">Acció del Sistema</str>
+<str name="msgSystemProgrammerResponse">Resposta del Programador del Sistema</str>
+<str name="msgUserResponse">Resposta de l'Usuari</str>
+<str name="msgExplanation">Explicació</str>
+<str name="noaction">No cal dur a terme cap acció.</str>
+</strings>

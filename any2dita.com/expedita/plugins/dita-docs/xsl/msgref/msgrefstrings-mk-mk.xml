@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="mk-mk">
+<str name="msgAdministratorResponse">Одговор на Администраторот</str>
+<str name="msgAutomation">Автоматизирање</str>
+<str name="msgCodeDefinitionHead">Објаснување</str>
+<str name="msgCodeLabelHead">Кодови</str>
+<str name="msgDescriptorCode">Код за опис</str>
+<str name="msgModule">Модул</str>
+<str name="msgOperatorResponse">Одоговор на операторот</str>
+<str name="msgProblemDetermination">Откривање на проблем</str>
+<str name="msgProgrammerResponse">Одговор на програмерот</str>
+<str name="msgResponse">Реакција</str>
+<str name="msgRoutingCode">Код за рутирање</str>
+<str name="msgSource">Извор</str>
+<str name="msgSystemAction">Системска акција</str>
+<str name="msgSystemProgrammerResponse">Одговор на системскиот програмер</str>
+<str name="msgUserResponse">Одговор на корисникот</str>
+<str name="msgExplanation">Објаснување</str>
+<str name="noaction">Не е потребна никаква акција</str>
+</strings>

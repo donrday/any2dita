@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="ar-eg">
+<str name="msgAdministratorResponse">رد موجه النظام</str>
+<str name="msgAutomation">الآلية</str>
+<str name="msgCodeDefinitionHead">الشرح</str>
+<str name="msgCodeLabelHead">الأكواد</str>
+<str name="msgDescriptorCode">كود وحدة التوصيف</str>
+<str name="msgModule">وحدة البرنامج</str>
+<str name="msgOperatorResponse">استجابة المشغل</str>
+<str name="msgProblemDetermination">تحدﻳد المشكلة</str>
+<str name="msgProgrammerResponse">استجابة المبرمج</str>
+<str name="msgResponse">الرد</str>
+<str name="msgRoutingCode">كود التوجيه</str>
+<str name="msgSource">المصدر</str>
+<str name="msgSystemAction">تصرف النظام</str>
+<str name="msgSystemProgrammerResponse">استجابة مبرمج النظام</str>
+<str name="msgUserResponse">استجابة المستخدم</str>
+<str name="msgExplanation">الشرح</str>
+<str name="noaction">لا يوجد تصرف مطلوب</str>
+</strings>

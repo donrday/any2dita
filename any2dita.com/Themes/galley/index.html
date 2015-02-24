@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!-- saved from url=(0087)https://docs.google.com/spreadsheet/viewform?formkey=dHdpOW9QRzMzQ19DWFQyMlFTZm1fdWc6MQ -->
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta itemprop="name" content="<?php echo $postNavtitle; ?>">
+		<meta itemprop="description" content="<?php echo $postDescription; ?>">
+		<title><?php echo pageTitle();?></title>
+		<link href="style2.css" type="text/css" rel="stylesheet">
+	</head>
+	<body class="ss-base-body" dir="ltr" itemscope="" itemtype="http://schema.org/CreativeWork/FormObject">
+		<div class="ss-form-container">
+			<div class="ss-form-heading">
+				<h1 class="ss-form-title"><?php echo pageTitle();?>: < ?php echo $postTitle; ?></h1>
+				<div class="ss-form-desc ss-no-ignore-whitespace">
+					<?php echo navigation();?>
+				</div>
+				<hr class="ss-email-break" style="display:none;"/>
+				<div class="ss-required-asterisk">* Required</div>
+			</div>
+			<div class="ss-form">
+				<?php content(); ?>
+				<p>Content: < ?php $c = 'render'.$mode; $c($file,$path,$file); ?></p>
+				<div class="ss-q-title" for="entry_0">What types of physical products do you document?</div>
+				<p class="ss-q-help" for="entry_0">(e.g. medical devices, sports equipment, furniture, tablet computers, power tools)</p>
+				<textarea name="entry.0.single" rows="8" cols="75" class="ss-q-long" id="entry_0"></textarea>
+			</div>
+			<div class="ss-footer">
+				<div class="ss-attribution"></div>
+				<div class="ss-legal">
+					<span class="ss-powered-by">Powered by expeDITA</span>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

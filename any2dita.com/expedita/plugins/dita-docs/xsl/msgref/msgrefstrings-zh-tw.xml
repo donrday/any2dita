@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="zh-tw">
+<str name="msgAdministratorResponse">管理員回應</str>
+<str name="msgAutomation">自動化</str>
+<str name="msgCodeDefinitionHead">解說</str>
+<str name="msgCodeLabelHead">程式碼</str>
+<str name="msgDescriptorCode">描述碼</str>
+<str name="msgModule">模組</str>
+<str name="msgOperatorResponse">操作員回應</str>
+<str name="msgProblemDetermination">問題判斷</str>
+<str name="msgProgrammerResponse">程式設計師回應</str>
+<str name="msgResponse">回應</str>
+<str name="msgRoutingCode">遞送碼</str>
+<str name="msgSource">來源</str>
+<str name="msgSystemAction">系統動作</str>
+<str name="msgSystemProgrammerResponse">系統程式設計師回應</str>
+<str name="msgUserResponse">使用者回應</str>
+<str name="msgExplanation">解說</str>
+<str name="noaction">不需任何動作</str>
+</strings>

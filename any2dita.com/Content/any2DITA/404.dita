@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "../dtd/topic.dtd">
+<topic id="topic_404">
+<title>404 Resource Not Found</title>
+<shortdesc/>
+<body>
+<p>The last resource you tried to follow was not found.<ul>
+                <li>The original resource may have been renamed. If search is available and you have
+                    an idea what the content might be about, try that.</li>
+                <li>The resource may have been removed.</li>
+                <li>The storage path (folder) for the resource may have changed.</li>
+                <li>The link was created, but not a corresponding resource.</li>
+            </ul></p>
+<p>You may  try one of the following system options (availability based on login permissions).</p>
+</body>
+</topic>

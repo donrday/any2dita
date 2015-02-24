@@ -1,0 +1,30 @@
+
+
+<!-- to split the processing into different result streams: -->
+<xsl:template match="/someroot">
+<!-- opening local markup-->
+      <exsl:document href="title.html">
+          <body>
+             <xsl:apply-templates select="title"/>
+          </body>
+      </exsl:document>
+ <!-- intermediate local markup-->
+      <exsl:document href="body.html">
+          <body>
+             <xsl:apply-templates select="body"/>
+          </body>
+      </exsl:document>
+<!-- closing local markup-->
+</xsl:template>
+
+	<!-- specifically process a title in topic context (the processing does not apply to fig or table titles, for example) but save as reusable asset -->
+	<xsl:template match='*[contains(@class," topic/topic ")]/*[contains(@class," topic/title ")]' mode="cacheable">
+		<xsl:variable name="nestedtopicdepth"><xsl:value-of select='count(ancestor::*[contains(@class," topic/topic ")])'/></xsl:variable
+		<!-- create the result tree in the context of an exslt output document writer -->
+		<exsl:document href="title.html">
+			<xsl:element name="h{$nestedtopicdepth}">
+				<xsl:attribute name="class">topictitle<xsl:value-of select="$nestedtopicdepth"/></xsl:attribute>
+	 			<xsl:apply-templates/>
+			</xsl:element>
+		</exsl:document>
+	</xsl:template>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="lv-lv">
+<str name="msgAdministratorResponse">Administratora atbilde</str>
+<str name="msgAutomation">Automatizācija</str>
+<str name="msgCodeDefinitionHead">Izskaidrojums</str>
+<str name="msgCodeLabelHead">Kodi</str>
+<str name="msgDescriptorCode">Deskriptora kods</str>
+<str name="msgModule">Modulis</str>
+<str name="msgOperatorResponse">Operatora atbilde</str>
+<str name="msgProblemDetermination">Problēmas noteikšana</str>
+<str name="msgProgrammerResponse">Programmētāja atbilde</str>
+<str name="msgResponse">Atbilde</str>
+<str name="msgRoutingCode">Maršrutēšanas kods</str>
+<str name="msgSource">Avots</str>
+<str name="msgSystemAction">Sistēmas darbība</str>
+<str name="msgSystemProgrammerResponse">Sistēmas programmētāja atbilde</str>
+<str name="msgUserResponse">Lietotāja atbilde</str>
+<str name="msgExplanation">Izskaidrojums</str>
+<str name="noaction">Nav jāveic nekādas darbības.</str>
+</strings>

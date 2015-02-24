@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="et-ee">
+<str name="msgAdministratorResponse">Süsteemiülema vastus</str>
+<str name="msgAutomation">Automatiseerimine</str>
+<str name="msgCodeDefinitionHead">Selgitus</str>
+<str name="msgCodeLabelHead">Koodid</str>
+<str name="msgDescriptorCode">Deskriptori kood</str>
+<str name="msgModule">Moodul</str>
+<str name="msgOperatorResponse">Operaatori tegevus</str>
+<str name="msgProblemDetermination">Veadiagnostika</str>
+<str name="msgProgrammerResponse">Programmeerija tegevus</str>
+<str name="msgResponse">Vastus</str>
+<str name="msgRoutingCode">Marsruutimiskood</str>
+<str name="msgSource">Allikas</str>
+<str name="msgSystemAction">Süsteemi tegevus</str>
+<str name="msgSystemProgrammerResponse">Süsteemiprogrammeerija tegevus</str>
+<str name="msgUserResponse">Kasutaja tegevus</str>
+<str name="msgExplanation">Selgitus</str>
+<str name="noaction">Pole vaja midagi teha.</str>
+</strings>

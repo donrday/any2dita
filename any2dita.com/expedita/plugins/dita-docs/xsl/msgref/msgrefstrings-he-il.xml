@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="he-il">
+<str name="msgAdministratorResponse">תגובת מנהלן</str>
+<str name="msgAutomation">אוטומציה</str>
+<str name="msgCodeDefinitionHead">הסבר</str>
+<str name="msgCodeLabelHead">Codes</str>
+<str name="msgDescriptorCode">קוד מתאר</str>
+<str name="msgModule">מודול</str>
+<str name="msgOperatorResponse">תגובת המפעיל</str>
+<str name="msgProblemDetermination">אבחון בעיות</str>
+<str name="msgProgrammerResponse">תגובת תוכניתן</str>
+<str name="msgResponse">תגובה</str>
+<str name="msgRoutingCode">קוד ניתוב</str>
+<str name="msgSource">מקור</str>
+<str name="msgSystemAction">פעולת מערכת</str>
+<str name="msgSystemProgrammerResponse">תגובת מפעיל המערכת</str>
+<str name="msgUserResponse">תגובת משתמש</str>
+<str name="msgExplanation">הסבר</str>
+<str name="noaction">אין צורך בפעולה.</str>
+</strings>

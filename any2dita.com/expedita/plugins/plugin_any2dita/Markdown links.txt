@@ -1,0 +1,15 @@
+﻿Markdown to HTML
+================
+
+[http://phpmaster.com/building-epub-with-php-and-markdown/](http://phpmaster.com/building-epub-with-php-and-markdown/)
+
+Sample markdown content (to copy/paste as html for now:
+
+* [http://kevinburke.bitbucket.org/markdowncss/sample.html](http://kevinburke.bitbucket.org/markdowncss/sample.html):
+do a Ctrl-U to view source, copy, and paste into the HTML window. Look for the page's title in the expeDITA map list.
+
+* [http://daringfireball.net/projects/markdown/syntax](http://daringfireball.net/projects/markdown/syntax):
+View source, copy from line 62 (or where &lt;h2&gt;Overview&lt;/h2&gt; starts) and copy up to the end-of-article div (not including). Look for Overview in the Toc.
+
+* [http://sourceforge.net/p/forge/documentation/markdown_syntax/](http://sourceforge.net/p/forge/documentation/markdown_syntax/):
+Use as test content for the mid-to-dita transforms.

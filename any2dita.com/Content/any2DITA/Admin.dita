@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "../dtd/topic.dtd">
+<topic id="topic_admin-managing">
+    <title>Admin Page: Managing Content in expeDITA</title>
+    <shortdesc>The Admin interface in the expeDITA framework brings all the content and all the tools into a single workplace, usually within the same themeatic look and feel as the main portions of the current workspace.</shortdesc>
+    <body>
+        <p>In a typical workflow, admin-level users will log in, find a resource, register users, select an editor, etc..</p>
+        <p>Briefly explain how to reposition widgets for admin activities.</p>
+        <p>To do:</p>
+        <ul>
+            <li>enable "Delete" "Edit" "Rename" in the tools for each file.</li>
+            <li>Add an "Edit" tool for the current resource.</li>
+        </ul>
+    </body>
+</topic>

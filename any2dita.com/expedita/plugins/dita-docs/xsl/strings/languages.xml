@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<languages>
+ <language><langcode>en</langcode><direction>ltr</direction></language>
+ <!-- etc. -->
+ <language><langcode>es</langcode><direction>ltr</direction></language>
+ <!-- etc. -->
+ <language><langcode>he</langcode><direction>rtl</direction></language>
+ <!-- etc. -->
+ <language><langcode>yi</langcode><direction>rtl</direction></language>
+ <!-- etc. -->
+</languages>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "../dtd/topic.dtd">
+<topic id="topic_316255065cb85b08d2">
+    <title>About expeDITA Central</title>
+    <titlealts>
+        <navtitle>Adapting content to the Web</navtitle>
+    </titlealts>
+     <shortdesc>Does XML have value for the Web? Most people never see it in its common business-to-business role as a content wrapper for transactions. More likely you've heard of its supposed role for publishing and semantic processing for the Web. Is there more behind this popular markup standard?</shortdesc>
+    <body>
+        <fig frame="all">
+            <image href="images/aspirin_in_medicine_cabinet-preview.jpg" width="558px" height="180px" placement="break"/>
+            <fn>Photo credit: <xref href="http://www.flickr.com/photos/sanzibar/2611481094/">sanzibar</xref> / <xref href="http://foter.com">Foter</xref> / <xref href="http://creativecommons.org/licenses/by-nc-sa/2.0/">CC BY-NC-SA</xref>
+        </fn>
+    </fig>
+    <p>Like aspirin in the medicine cabinet, XML tends to get pushed to the back as trendier products come along. But also like aspirin, XML still keeps working as an effective solution for many pains that are felt in Web content delivery. The expeDITA project aims to popularize the sweet spot of XML usage on the web by providing an open source framework specifically for rendering and publishing XML with ease.</p>
+    <section>
+        <title>About DITA</title>
+        <p>The name <q>expeDITA</q> derives in part from the project's heritage with the  <xref href="http://dita.xml.org/standard" scope="external">DITA OASIS Standard</xref>, an XML architecture for designing, writing, managing, and publishing information. DITA is an acronym for the Darwin Information Typing Architecture (OASIS link), which is not a particular fixed schema for Web content, but rather a design method for enabling extensibility in schemas for Web content. In a way, DITA was the first proof point of the <q>X</q> in eXtensible Markup Language in the sense that most of the <xref href="http://xml.coverpages.org/xmlApplications.html" scope="external">documented XML vocabularies</xref> are not interrelated and can't be extended outside their design domain.</p>
+    </section>
+</body>
+</topic>

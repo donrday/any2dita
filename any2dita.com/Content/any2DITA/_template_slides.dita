@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "../dtd/topic.dtd">
+<topic id="icc14_">
+	<title></title>
+	<shortdesc></shortdesc>
+	<body>
+        <p></p>
+		<simpletable>
+			<sthead><stentry></stentry></sthead>
+			<strow><stentry></stentry></strow>
+		</simpletable>
+        <section outputclass="aside">
+            <title></title>
+            <p>
+            <image href="http://photos.foter.com/14/wmap-2010_l.png" width="325px"></image>
+            </p>
+            <ul>
+                <li></li>
+            </ul>
+        </section>
+	</body>
+</topic>

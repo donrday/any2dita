@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="hu-hu">
+<str name="msgAdministratorResponse">Adminisztrátori válasz</str>
+<str name="msgAutomation">Önműködő válasz</str>
+<str name="msgCodeDefinitionHead">Magyarázat</str>
+<str name="msgCodeLabelHead">Kódok</str>
+<str name="msgDescriptorCode">Leíró kód</str>
+<str name="msgModule">Modul</str>
+<str name="msgOperatorResponse">Kezelői válasz</str>
+<str name="msgProblemDetermination">Hibakeresés</str>
+<str name="msgProgrammerResponse">Programozói válasz</str>
+<str name="msgResponse">Válasz</str>
+<str name="msgRoutingCode">Útválasztási kód</str>
+<str name="msgSource">Forrás</str>
+<str name="msgSystemAction">Rendszerművelet</str>
+<str name="msgSystemProgrammerResponse">Rendszerprogramozói válasz</str>
+<str name="msgUserResponse">Felhasználói válasz</str>
+<str name="msgExplanation">Magyarázat</str>
+<str name="noaction">Nincs tennivaló.</str>
+</strings>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="ja-jp">
+<str name="msgAdministratorResponse">管理者の応答</str>
+<str name="msgAutomation">自動化</str>
+<str name="msgCodeDefinitionHead">説明</str>
+<str name="msgCodeLabelHead">コード</str>
+<str name="msgDescriptorCode">記述子コード</str>
+<str name="msgModule">モジュール</str>
+<str name="msgOperatorResponse">オペレーターの応答</str>
+<str name="msgProblemDetermination">問題判別</str>
+<str name="msgProgrammerResponse">プログラマーの応答</str>
+<str name="msgResponse">応答</str>
+<str name="msgRoutingCode">宛先コード</str>
+<str name="msgSource">ソース</str>
+<str name="msgSystemAction">システムの処置</str>
+<str name="msgSystemProgrammerResponse">システム・プログラマーの応答</str>
+<str name="msgUserResponse">ユーザーの処置</str>
+<str name="msgExplanation">説明</str>
+<str name="noaction">必要なアクションはありません。</str>
+</strings>

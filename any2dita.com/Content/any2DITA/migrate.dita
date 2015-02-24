@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "../dtd/concept.dtd">
+<concept id="concept_migrate">
+<title>Migration Tool</title>
+<shortdesc>Select a tab for the content type you want to migrate. Follow the instructions per content type. Note that there is a two-hour life span for newly migrated files; download before they time out!</shortdesc>
+<conbody>
+</conbody>
+</concept>

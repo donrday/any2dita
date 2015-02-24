@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text strings for use with the message reference specialization -->
+<strings xml:lang="uk-ua">
+<str name="msgAdministratorResponse">Реакція адміністратора</str>
+<str name="msgAutomation">Автоматизація</str>
+<str name="msgCodeDefinitionHead">Пояснення</str>
+<str name="msgCodeLabelHead">Коди</str>
+<str name="msgDescriptorCode">Код дескриптору</str>
+<str name="msgModule">Модуль</str>
+<str name="msgOperatorResponse">Реакція оператора</str>
+<str name="msgProblemDetermination">Визначення проблеми</str>
+<str name="msgProgrammerResponse">Реакція програміста</str>
+<str name="msgResponse">Відповідь</str>
+<str name="msgRoutingCode">Код маршруту</str>
+<str name="msgSource">Джерело</str>
+<str name="msgSystemAction">Дія системи</str>
+<str name="msgSystemProgrammerResponse">Реакція системного програміста</str>
+<str name="msgUserResponse">Реакція користувача</str>
+<str name="msgExplanation">Пояснення</str>
+<str name="noaction">Ніяких дій не потрібно.</str>
+</strings>
